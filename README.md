@@ -1,4 +1,5 @@
 # BLE-advertiser
+## Script to spam nearby devices with pairing request using Bluetooth Low Energy protocol
 ## Running : 
   1. run `pip install -r requirements.txt`
   2. run ble.py
