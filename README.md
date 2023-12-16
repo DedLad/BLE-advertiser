@@ -1,3 +1,7 @@
+# Project is on hold currently, due to issues with library deprecation, writing a seriel data reader to use instead
+
+
+
 # BLE-advertiser
 ## Script to spam nearby devices with pairing request using Bluetooth Low Energy protocol
 ## Running : 
